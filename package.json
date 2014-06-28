@@ -1,0 +1,36 @@
+{
+  "name": "doge-services",
+  "version": "0.0.0",
+  "description": "doge-services-gulp ==================",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "~3.8.2"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.2",
+    "gulp-uglify": "~0.3.1",
+    "gulp-concat": "~2.2.0",
+    "gulp-qunit": "~0.3.3",
+    "gulp-load-plugins": "~0.5.2",
+    "gulp-connect": "~2.0.5",
+    "gulp-ruby-sass": "~0.5.0",
+    "gulp-livereload": "~2.1.0",
+    "require-dir": "~0.1.0",
+    "run-sequence": "~0.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/do-less/doge-services.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/do-less/doge-services/issues"
+  }
+}
